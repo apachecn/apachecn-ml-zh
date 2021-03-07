@@ -8,6 +8,16 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [台湾大学林轩田机器学习笔记](docs/ntu-hsuantienlin-ml/SUMMARY.md)
++   [Sklearn 秘籍](docs/sklearn-cookbook/SUMMARY.md)
++   [Sklearn 学习手册](docs/learning-sklearn/SUMMARY.md)
++   [SciPyCon 2018 sklearn 教程](docs/scipycon-2018-sklearn-tut/SUMMARY.md)
++   [Python 机器学习在线指南](docs/vt-cs4624-pyml/SUMMARY.md)
++   [写给人类的机器学习](docs/ml-for-humans/SUMMARY.md)
++   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。

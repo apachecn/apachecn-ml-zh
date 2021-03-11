@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 开源社区就是西部世界，圣母心死得最快。————熊神
 
 * [在线阅读](https://ml.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)

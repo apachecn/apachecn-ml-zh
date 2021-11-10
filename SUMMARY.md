@@ -100,7 +100,7 @@
     +   [五、强化学习](docs/ml-for-humans/5.md)
     +   [六、最好的机器学习资源](docs/ml-for-humans/6.md)
 +   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/README.md)
-+   [机器学习算法交易](README.md)
++   [机器学习算法交易](docs/ml-algo-trade/README.md)
     +   [零、前言](docs/ml-algo-trade/00.md)
     +   [一、用于交易的机器学习——从理念到实践](docs/ml-algo-trade/01.md)
     +   [二、市场和基础数据——来源和技术](docs/ml-algo-trade/02.md)

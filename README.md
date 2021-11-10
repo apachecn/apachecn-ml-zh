@@ -17,6 +17,7 @@
 +   [Python 机器学习在线指南](docs/vt-cs4624-pyml/SUMMARY.md)
 +   [写给人类的机器学习](docs/ml-for-humans/SUMMARY.md)
 +   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/SUMMARY.md)
++   [机器学习算法交易](docs/ml-algo-trade/SUMMARY.md)
 
 ## 贡献指南
 

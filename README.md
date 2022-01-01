@@ -22,6 +22,13 @@
 +   [面向机器学习的特征工程](docs/fe4ml-zh/README.md)
 +   [可解释的机器学习](docs/interpretable-ml-book/README.md)
 +   [百页机器学习小书](docs/ml-book-100-zh/SUMMARY.md)
++   [Python 高级机器学习](docs/adv-ml-py/SUMMARY.md)
++   [构建 Python 机器学习系统](docs/build-ml-sys-py/SUMMARY.md)
++   [AutoML 实用手册](docs/handson-auto-ml/SUMMARY.md)
++   [Python 无监督学习实用手册](docs/handson-unsup-learn-py/SUMMARY.md)
++   [Python 智能项目](docs/intel-proj-py/SUMMARY.md)
++   [精通 Python 社交媒体挖掘](docs/master-social-media-mine-py/SUMMARY.md)
++   [统计机器学习教程](docs/stat-ml/SUMMARY.md)
 
 ## 贡献指南
 

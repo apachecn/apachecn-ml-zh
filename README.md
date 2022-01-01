@@ -40,6 +40,7 @@
 无需翻译：
 
 Python: Real World Machine Learning
+Learning Data Mining with Python
 -->
 
 ## 联系方式

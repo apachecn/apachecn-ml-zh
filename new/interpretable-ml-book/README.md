@@ -6,6 +6,8 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 >
+> 阶段：简单校对（2）
+> 
 > 我相信大家都知道程序员讨厌的四件事，那就是：写注释、写文档、别人不写注释、别人不写文档。
 
 - [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)

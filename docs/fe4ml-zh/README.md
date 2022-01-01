@@ -67,4 +67,4 @@ fe4ml-zh <port>
 
 ## 赞助我们
 
-<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+<img src="http://www.apachecn.org/img/donate.jpg" alt="微信&支付宝" />

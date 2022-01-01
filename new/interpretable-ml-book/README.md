@@ -29,7 +29,7 @@
 
 ## 致谢
 
-感谢原作者与百度翻译API，以下为作者联系方式
+感谢原作者与百度翻译 API，以下为作者联系方式
 
 Mail: [christoph.molnar.ai@gmail.com](mailto:christoph.molnar.ai@gmail.com)
 
@@ -39,7 +39,7 @@ Follow me on Twitter! [@ChristophMolnar](https://twitter.com/ChristophMolnar)
 
 Cover by [@YvonneDoinel](https://twitter.com/YvonneDoinel)
 
-可以在  [leanpub.com](https://leanpub.com/interpretable-machine-learning) 购买PDF和电子书版（epub, mobi）
+可以在  [leanpub.com](https://leanpub.com/interpretable-machine-learning) 购买 PDF 和电子书版（epub, mobi）
 
 可以在 [lulu.com](http://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html) 上面购买纸质版
 

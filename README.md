@@ -18,6 +18,7 @@
 +   [写给人类的机器学习](docs/ml-for-humans/SUMMARY.md)
 +   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/SUMMARY.md)
 +   [机器学习算法交易](docs/ml-algo-trade/SUMMARY.md)
++   [Python 数据科学和机器学习实践指南](docs/handson-ds-py-ml/SUMMARY.md)
 
 ## 贡献指南
 

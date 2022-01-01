@@ -29,6 +29,12 @@
 +   [Python 智能项目](docs/intel-proj-py/SUMMARY.md)
 +   [精通 Python 社交媒体挖掘](docs/master-social-media-mine-py/SUMMARY.md)
 +   [统计机器学习教程](docs/stat-ml/SUMMARY.md)
++   [使用 Python 构建概率图模型](docs/build-pgm-py/SUMMARY.md)
++   [Python 机器学习系统设计指南](docs/design-ml-sys-py/SUMMARY.md)
++   [Python 大规模机器学习](docs/large-scale-ml-py/SUMMARY.md)
++   [Python 机器学习蓝图](docs/py-ml-blueprint/SUMMARY.md)
++   [Python 机器学习秘籍](docs/py-ml-cb/SUMMARY.md)
++   [Python 机器学习示例](docs/py-ml-exam/SUMMARY.md)
 
 ## 贡献指南
 

@@ -19,6 +19,9 @@
 +   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/SUMMARY.md)
 +   [机器学习算法交易](docs/ml-algo-trade/SUMMARY.md)
 +   [Python 数据科学和机器学习实践指南](docs/handson-ds-py-ml/SUMMARY.md)
++   [面向机器学习的特征工程](docs/fe4ml-zh/README.md)
++   [可解释的机器学习](docs/interpretable-ml-book/README.md)
++   [百页机器学习小书](docs/ml-book-100-zh/SUMMARY.md)
 
 ## 贡献指南
 

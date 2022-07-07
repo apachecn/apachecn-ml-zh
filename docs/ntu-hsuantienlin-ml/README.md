@@ -1,6 +1,8 @@
 # 台湾大学林轩田机器学习笔记
 
 > 贡献者：[红色石头](https://github.com/RedstoneWill)
+>
+> 阶段：精细校对（4）
 
 +   [红色石头的机器学习之路](https://redstonewill.github.io/)
 +   [红色石头的专栏](http://blog.csdn.net/red_stone1)

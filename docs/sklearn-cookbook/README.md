@@ -3,6 +3,8 @@
 > 原书：[Scikit-learn Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：精细校对（4）
 >  
 > 不要担心自己的形象，只关心如何实现目标。——《原则》，生活原则 2.3.c
 

@@ -5,6 +5,8 @@
 > 译者：[飞龙](https://github.com/wizardforcel)（等）
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：精细校对（4）
 > 
 > 这个世界不缺少科学家，缺少能说人话的科学家。-- 沃·兹基硕德
 > 

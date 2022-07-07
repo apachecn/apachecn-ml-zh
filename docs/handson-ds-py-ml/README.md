@@ -3,6 +3,8 @@
 > 原文：[Hands-On Data Science and Python Machine Learning](https://www.bookzz.ren/bookzz/3632381/8c928c)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：机翻（1）
 > 
 > 不要担心自己的形象，只关心如何实现目标。——《原则》，生活原则 2.3.c
 

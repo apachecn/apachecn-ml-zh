@@ -3,6 +3,8 @@
 > 原文：[SciPy 2018 Scikit-learn Tutorial](https://nbviewer.jupyter.org/github/amueller/scipy-2018-sklearn/tree/master/notebooks/)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
+>
+> 阶段：精细校对（4）
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
